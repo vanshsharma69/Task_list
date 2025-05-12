@@ -87,4 +87,4 @@ src/
 
 ### 👨‍💻 Author
 
-**Your Name** – [GitHub](https://github.com/vanshsharma69)
+**Vansh Sharma** – [GitHub](https://github.com/vanshsharma69)
