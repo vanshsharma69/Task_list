@@ -84,18 +84,7 @@ src/
 
 ---
 
-### 📧 Submission Details
-
-* **Assignment Name:** FrontendDev assignment – Websites.co.in
-* **Due Date:** 16 May 2025
-* **Submit To:** `hr@websites.co.in` (with video demonstration)
-
----
 
 ### 👨‍💻 Author
 
-**Your Name** – [GitHub](https://github.com/your-username)
-
----
-
-Let me know if you'd like me to include instructions for deployment (e.g., Vercel or Netlify), or generate a demo video script!
+**Your Name** – [GitHub](https://github.com/vanshsharma69)
